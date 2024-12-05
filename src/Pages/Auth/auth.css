@@ -1,0 +1,31 @@
+.logo {
+  position: relative;
+  align-items: center;
+  margin: 10px 45%;
+}
+form {
+  border: 0.5px solid rgba(53, 52, 52, 0.345);
+  width: 250px;
+  margin: auto;
+  padding: 20px 20px 30px 50px;
+  /* justify-items: center; */
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+p {
+  text-align: left;
+  width: 85%;
+}
+input {
+  width: 85%;
+  margin: 10px 0;
+}
+button {
+  width: 86.6%;
+  margin: 10px 0;
+  padding: 5px;
+}
+.signIn {
+  background-color: rgb(247, 182, 98);
+  border: 0.2px solid rgba(75, 74, 74, 0.459);
+}
